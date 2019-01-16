@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Sravya Katpally
 
-dcase@nwmissouri.edu
+s534740e@nwmissouri.edu
 
 ## New Section 
 
